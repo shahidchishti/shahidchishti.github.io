@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fb923c"/><stop offset="1" stop-color="#fde68a"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#s)"/>
+<g fill="#475569" opacity=".55"><rect x="20" y="120" width="70" height="140"/><rect x="100" y="80" width="60" height="180"/><rect x="560" y="100" width="70" height="160"/><rect x="700" y="140" width="90" height="120"/></g>
+<rect y="250" width="800" height="200" fill="#64748b"/><path d="M0 250h800v12H0z" fill="#e2e8f0"/>
+<path d="M330 450 L380 250 H420 L470 450Z" fill="#475569"/>
+<g fill="#fff"><path d="M394 262h12l3 30h-18z"/><path d="M391 310h18l4 40h-26z"/><path d="M386 375h28l5 60h-38z"/></g>
+<rect x="660" y="140" width="12" height="130" fill="#334155"/><rect x="640" y="70" width="52" height="110" rx="10" fill="#1e293b"/>
+<circle cx="666" cy="92" r="13" fill="#7f1d1d"/><circle cx="666" cy="125" r="13" fill="#78350f"/><circle cx="666" cy="158" r="13" fill="#22c55e"/>
+<g fill="#f97316"><path d="M140 380l18-60 18 60z"/><path d="M220 340l14-48 14 48z"/><path d="M560 340l14-48 14 48z"/><path d="M620 380l18-60 18 60z"/></g>
+<g fill="#fff"><rect x="148" y="350" width="20" height="6"/><rect x="226" y="316" width="16" height="5"/><rect x="566" y="316" width="16" height="5"/><rect x="628" y="350" width="20" height="6"/></g>
+<g transform="translate(290 270)">
+<path d="M0 80 V50 Q0 35 20 32 L55 0 H165 L200 32 Q220 35 220 50 V80Z" fill="#2563eb"/>
+<path d="M65 8 H105 V34 H40Z M115 8 H155 L180 34 H115Z" fill="#bfdbfe"/>
+<rect x="75" y="-24" width="70" height="24" rx="4" fill="#fde047" stroke="#1e293b" stroke-width="3"/>
+<text x="110" y="-6" text-anchor="middle" font-family="Arial" font-weight="700" font-size="15" fill="#1e293b">SCHOOL</text>
+<rect x="8" y="48" width="22" height="12" rx="3" fill="#fef9c3"/><rect x="190" y="48" width="22" height="12" rx="3" fill="#fef9c3"/>
+<rect x="95" y="50" width="30" height="28" rx="3" fill="#fff" stroke="#dc2626" stroke-width="3"/><text x="110" y="73" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="22" fill="#dc2626">L</text>
+<circle cx="45" cy="82" r="20" fill="#111827"/><circle cx="175" cy="82" r="20" fill="#111827"/><circle cx="45" cy="82" r="8" fill="#9ca3af"/><circle cx="175" cy="82" r="8" fill="#9ca3af"/></g>
+<text x="400" y="55" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="44" fill="#fff" stroke="#1e3a8a" stroke-width="6" paint-order="stroke">CAR SCHOOL DRIVING</text>
+</svg>

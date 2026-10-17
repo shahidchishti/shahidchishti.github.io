@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4f46e5"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="car" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff4d4d"/><stop offset="1" stop-color="#b91c1c"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#sky)"/>
+<g fill="#fff" opacity=".85"><ellipse cx="120" cy="80" rx="60" ry="20"/><ellipse cx="160" cy="70" rx="40" ry="22"/><ellipse cx="640" cy="60" rx="70" ry="20"/><ellipse cx="680" cy="50" rx="40" ry="20"/></g>
+<rect x="30" y="330" width="170" height="40" rx="6" fill="#22c55e"/><rect x="30" y="362" width="170" height="14" fill="#15803d"/>
+<rect x="250" y="290" width="110" height="36" rx="6" fill="#facc15"/><rect x="250" y="318" width="110" height="12" fill="#ca8a04"/>
+<rect x="410" y="250" width="100" height="36" rx="6" fill="#f472b6"/><rect x="410" y="278" width="100" height="12" fill="#be185d"/>
+<rect x="560" y="200" width="200" height="40" rx="6" fill="#38bdf8"/><rect x="560" y="232" width="200" height="14" fill="#0369a1"/>
+<rect x="700" y="120" width="10" height="80" fill="#fff"/><path d="M710 120h50l-12 15 12 15h-50z" fill="#ef4444"/>
+<g fill="#e11d48" opacity=".9"><path d="M215 330l10-40 10 40z"/><path d="M375 290l10-40 10 40z"/><path d="M525 250l10-40 10 40z"/></g>
+<g transform="translate(300 175) rotate(-12)">
+<path d="M0 60 L20 30 Q60 5 110 10 L150 30 Q185 35 190 55 L190 70 L0 70 Z" fill="url(#car)"/>
+<path d="M40 30 Q70 14 105 16 L130 32 Z" fill="#bfdbfe"/>
+<rect x="0" y="62" width="192" height="10" rx="4" fill="#7f1d1d"/>
+<circle cx="45" cy="72" r="18" fill="#111827"/><circle cx="45" cy="72" r="8" fill="#9ca3af"/>
+<circle cx="150" cy="72" r="18" fill="#111827"/><circle cx="150" cy="72" r="8" fill="#9ca3af"/>
+<path d="M-40 40h30M-50 55h40M-35 70h25" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".8"/></g>
+<text x="400" y="58" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="44" fill="#fff" stroke="#1e1b4b" stroke-width="6" paint-order="stroke">SUPERCAR OBBY</text>
+</svg>

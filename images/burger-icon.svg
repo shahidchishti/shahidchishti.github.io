@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<rect width="256" height="256" fill="#2e1065"/>
+<g transform="translate(128 125) scale(.72)">
+<path d="M-150 -10 Q-150 -130 0 -130 Q150 -130 150 -10Z" fill="#d97706"/>
+<path d="M-75 -70 L-25 -50 L-75 -38Z" fill="#fff"/><path d="M75 -70 L25 -50 L75 -38Z" fill="#fff"/>
+<circle cx="-52" cy="-51" r="10" fill="#dc2626"/><circle cx="52" cy="-51" r="10" fill="#dc2626"/>
+<path d="M-90 -90 L-25 -66" stroke="#451a03" stroke-width="12" stroke-linecap="round"/><path d="M90 -90 L25 -66" stroke="#451a03" stroke-width="12" stroke-linecap="round"/>
+<path d="M-160 -10 Q-130 15 -100 -5 Q-70 18 -40 -5 Q-10 18 20 -5 Q50 18 80 -5 Q110 18 160 -10 L160 5 H-160Z" fill="#65a30d"/>
+<path d="M-145 5 H145 Q150 70 0 70 Q-150 70 -145 5Z" fill="#000"/>
+<g fill="#fff"><path d="M-110 5 l14 30 l14 -30z"/><path d="M-60 5 l14 34 l14 -34z"/><path d="M-10 5 l14 34 l14 -34z"/><path d="M40 5 l14 34 l14 -34z"/><path d="M85 5 l12 28 l12 -28z"/></g>
+<rect x="-155" y="66" width="310" height="28" rx="12" fill="#7c2d12"/>
+<path d="M-150 92 H150 Q150 135 0 135 Q-150 135 -150 92Z" fill="#d97706"/></g>
+</svg>

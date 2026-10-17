@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<defs><radialGradient id="g" cx=".5" cy=".55" r=".7"><stop offset="0" stop-color="#4c1d95"/><stop offset="1" stop-color="#0f0a1e"/></radialGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="680" cy="80" r="50" fill="#fef3c7"/><circle cx="660" cy="70" r="10" fill="#fde68a"/><circle cx="695" cy="95" r="7" fill="#fde68a"/>
+<g fill="#1e1b4b"><path d="M0 450 V300 L40 260 L60 300 V220 L100 200 L120 240 V450Z"/><path d="M680 450 V280 L720 230 L760 280 V200 L800 220 V450Z"/></g>
+<g fill="#000" opacity=".7"><path d="M150 120 q15 -12 30 0 q15 -12 30 0 q-15 4 -30 12 q-15 -8 -30 -12z"/><path d="M560 160 q12 -10 24 0 q12 -10 24 0 q-12 3 -24 10 q-12 -7 -24 -10z"/></g>
+<g transform="translate(400 250) scale(.95)">
+<ellipse cx="0" cy="150" rx="170" ry="18" fill="#000" opacity=".4"/>
+<path d="M-150 -10 Q-150 -130 0 -130 Q150 -130 150 -10Z" fill="#d97706"/>
+<g fill="#fef3c7"><ellipse cx="-70" cy="-95" rx="9" ry="5"/><ellipse cx="-10" cy="-112" rx="9" ry="5"/><ellipse cx="50" cy="-104" rx="9" ry="5"/><ellipse cx="100" cy="-75" rx="9" ry="5"/></g>
+<path d="M-75 -70 L-25 -50 L-75 -38Z" fill="#fff"/><path d="M75 -70 L25 -50 L75 -38Z" fill="#fff"/>
+<circle cx="-52" cy="-51" r="9" fill="#dc2626"/><circle cx="52" cy="-51" r="9" fill="#dc2626"/>
+<path d="M-90 -88 L-25 -66" stroke="#451a03" stroke-width="10" stroke-linecap="round"/><path d="M90 -88 L25 -66" stroke="#451a03" stroke-width="10" stroke-linecap="round"/>
+<path d="M-160 -10 Q-130 15 -100 -5 Q-70 18 -40 -5 Q-10 18 20 -5 Q50 18 80 -5 Q110 18 160 -10 L160 5 H-160Z" fill="#65a30d"/>
+<path d="M-145 5 H145 Q150 70 0 70 Q-150 70 -145 5Z" fill="#000"/>
+<g fill="#fff"><path d="M-120 5 l12 26 l12 -26z"/><path d="M-80 5 l12 30 l12 -30z"/><path d="M-40 5 l12 32 l12 -32z"/><path d="M0 5 l12 32 l12 -32z"/><path d="M40 5 l12 30 l12 -30z"/><path d="M80 5 l12 26 l12 -26z"/>
+<path d="M-100 68 l12 -22 l12 22z"/><path d="M-50 70 l12 -24 l12 24z"/><path d="M0 70 l12 -24 l12 24z"/><path d="M50 68 l12 -22 l12 22z"/></g>
+<path d="M-160 62 H160 L150 80 H-150Z" fill="#fbbf24"/>
+<rect x="-155" y="76" width="310" height="26" rx="12" fill="#7c2d12"/>
+<path d="M-150 100 H150 Q150 140 0 140 Q-150 140 -150 100Z" fill="#d97706"/></g>
+<text x="400" y="62" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="50" fill="#fde047" stroke="#7f1d1d" stroke-width="7" paint-order="stroke">SCARY BURGER</text>
+</svg>
